@@ -1,0 +1,39 @@
+# Compiled binaries
+*.exe
+*.o
+*.obj
+*.a
+*.lib
+*.dll
+
+# Huffman compressed files (test/generated)
+*.huf
+*.out
+test_*.txt
+test_*.exe
+ToBeTran
+CodeFile
+CodeFile.huf
+TextFile
+TreePrint
+hfmTree
+huffman.log
+
+# OS generated files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# IDE files
+*.cbp
+*.layout
+*.depend
+*.workspace
+*.dev
+*.bin
+*.orig
+*.bak
+
+# Build directory
+/build/
+/bin/
